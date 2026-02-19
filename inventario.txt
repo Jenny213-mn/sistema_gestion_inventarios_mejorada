@@ -1,3 +1,2 @@
 102,Teclado,2,35.0
-103,Mouse,tres,10.0
-Laptop,104,cinco,890.0
+345,Celular,3,456.0

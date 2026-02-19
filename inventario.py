@@ -1,3 +1,10 @@
+"""
+Sistema de Gestión de Inventarios Mejorado
+Autor/a: Jenny Manzano
+Descripción: Proyecto académico que implementa persistencia en archivos
+y manejo de excepciones en Python.
+"""
+
 import os
 
 # ==============================
